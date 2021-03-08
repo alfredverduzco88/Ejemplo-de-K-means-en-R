@@ -1,0 +1,1 @@
+points(kmeans.res$centers)
